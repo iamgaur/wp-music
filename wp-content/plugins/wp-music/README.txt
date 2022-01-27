@@ -12,7 +12,7 @@ WP Music for add music records and show listing
 
 == Description ==
 
-This plugin will give option to add music recorder and add, update and delete from backend. Its also provide listing with help of shortcode [music]
+This plugin will give the option to add music content Insert, Update, and Delete from the backend. It's also provide show music listing with help of shortcodes [music]
 
 == Installation ==
 
