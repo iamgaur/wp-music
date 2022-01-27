@@ -1,0 +1,7 @@
+/**
+ * All of the CSS for your admin-specific functionality should be
+ * included in this file.
+ */
+ .music-custom-box label{width:35%;float:left;margin:15px 0;}
+ .music-custom-box input{width:60%;float:right;margin:15px 0;}
+ .music-custom-box, .music-custom-box .row{float:left;width:100%;}
